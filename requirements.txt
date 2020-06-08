@@ -1,0 +1,17 @@
+# API
+fastapi
+uvicorn
+
+# Data science
+numpy
+pandas
+
+# computer vision
+opencv-python
+imutils
+
+# video streaming and downloading
+pafy
+youtube-dl
+wget
+
